@@ -1,0 +1,37 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+	width: 70%;
+	position: relative;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#cabecera {
+	background-color: #1C619A;
+	text-align: center;
+}
+
+#comentario{
+	margin-left: 10%;
+}
+
+p{
+	margin-right: 30%;
+	text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
